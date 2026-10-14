@@ -15,7 +15,6 @@ Working:
 
 i have tested tested the numbers and operaters and i hhave something special about mine where you can make the number positive or negative
 Still in progress:
-- [A requirement you are finishing]
 i should have all the requirments finished
 ## How to Run
 Built with Processing.
